@@ -1,9 +1,9 @@
 {
 "companyName": "DefaultCompany",
 "productName": "FoRest",
-"dataUrl": "Build_FoRest.data.unityweb",
-"wasmCodeUrl": "Build_FoRest.wasm.code.unityweb",
-"wasmFrameworkUrl": "Build_FoRest.wasm.framework.unityweb",
+"dataUrl": "Build_FoRest.data.unityweb.gz",
+"wasmCodeUrl": "Build_FoRest.wasm.code.unityweb.gz",
+"wasmFrameworkUrl": "Build_FoRest.wasm.framework.unityweb.gz",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
